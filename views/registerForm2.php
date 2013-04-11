@@ -62,7 +62,7 @@ border-radius: 8px;
 
 </script>
 </head>
-<body class="hero-unit">
+<body class="hero-unit container-fluid">
 	<div class="navbar navbar-inverse navbar-fixed-top">
       <div class="navbar-inner">
         <div class="container">
